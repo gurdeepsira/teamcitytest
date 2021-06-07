@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G5SMXMtC2arsxzBeMk/XLQyb4Q0a61MK7dqEOUx7fIepxovUnCVYXDzFh7GtBIjvIKQnzqNpYbjeU+s13hC6tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp7\\ConsoleApp7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\dumpextensions\\2.0.0\\dumpextensions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
